@@ -1,0 +1,11 @@
+C:\Users\UST LEGAZPI\Documents\Luk\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\UST LEGAZPI\Documents\Luk\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\UST LEGAZPI\Documents\Luk\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\UST LEGAZPI\Documents\Luk\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\UST LEGAZPI\Documents\Luk\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\UST LEGAZPI\Documents\Luk\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\UST LEGAZPI\Documents\Luk\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\UST LEGAZPI\Documents\Luk\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\UST LEGAZPI\Documents\Luk\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\UST LEGAZPI\Documents\Luk\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Dashboard.resources
+C:\Users\UST LEGAZPI\Documents\Luk\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.DataGridView.resources
